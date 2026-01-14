@@ -59,19 +59,19 @@ Atuo principalmente com **ESP32, C/C++, MQTT, FreeRTOS e automação residencial
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodriDev96&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDev96&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=RodriDev96&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDev96&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 </div>
-
 ---
 
 ## 🏆 Conquistas
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RodriDev96&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=RodriDev96&theme=tokyonight&no-frame=true&row=1&margin-w=10&v=1"
+  />
 </div>
 
 ---
