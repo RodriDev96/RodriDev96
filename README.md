@@ -75,12 +75,3 @@ Atuo principalmente com **ESP32, C/C++, MQTT, FreeRTOS e automação residencial
 </div>
 
 ---
-
-## 📫 Contato
-
-- 💼 LinkedIn: *(adicione aqui)*
-- 📧 Email: *(opcional)*
-
----
-
-⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
