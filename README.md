@@ -60,9 +60,8 @@ Atuo principalmente com **ESP32, C/C++, MQTT, FreeRTOS e automação residencial
 
 <div align="center">
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriDev96&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDev96&layout=compact&theme=tokyonight&hide_border=true)
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodriDev96&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDev96&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
