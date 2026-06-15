@@ -63,30 +63,6 @@ Possuo experiência profissional em tecnologia, atuando com desenvolvimento de s
 
 ---
 
-# 📌 Projetos
-
-## 💰 Sistema Bancário
-
-Aplicação Java para gerenciamento de contas, depósitos, saques e consultas de saldo.
-
-## 📦 Controle de Estoque
-
-Sistema para cadastro e gerenciamento de produtos.
-
-## 📇 Agenda de Contatos
-
-Aplicação para cadastro, pesquisa e gerenciamento de contatos.
-
-## ⏰ Sistema de Controle de Ponto
-
-Sistema para cálculo de horas trabalhadas, atrasos e banco de horas.
-
-## 🌐 API REST com Spring Boot
-
-API para gerenciamento de usuários e operações CRUD.
-
----
-
 # 🗺️ Roadmap
 
 ## Fundamentos Java
