@@ -119,17 +119,11 @@ Possuo experiência profissional em tecnologia, atuando com desenvolvimento de s
 * Conquistar a primeira oportunidade como Desenvolvedor Java
 
 ---
+## 📫 Contato
 
-# 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-martins-732543255)
 
-💼 LinkedIn
-
-[www.linkedin.com/in/rodrigo-martins-ribeiro-7591a8166](www.linkedin.com/in/rodrigo-martins-732543255)
-
-📂 GitHub
-
-https://github.com/RodriDev96
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodriDev96)
 ---
 
 <div align="center">
