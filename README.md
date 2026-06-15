@@ -1,71 +1,165 @@
-<!-- RodriDev96/README.md -->
-
-<h1 align="center">👋 Olá, eu sou o Rodrigo Martins Ribeiro</h1>
-
-<p align="center">
-  ☕ Desenvolvedor Java em Formação
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-📚 Focado em Java, Spring Boot e Desenvolvimento Web
-🚀 Construindo projetos para evolução contínua
-</p>
-
----
-
-## 🧠 Sobre mim
-
-Sou **eletrotécnico** e estudante de **Análise e Desenvolvimento de Sistemas**, com forte experiência prática em **automação, eletrônica e sistemas embarcados**.
-
-Atuo principalmente com **ESP32, C/C++, MQTT, FreeRTOS e automação residencial**, e atualmente aprofundo meus conhecimentos em **desenvolvimento web**, trabalhando com **JavaScript, Node.js e NestJS**, integrando backend com dispositivos IoT.
-
-🎯 Busco oportunidades como **Desenvolvedor Júnior (Web ou IoT)** ou projetos freelance envolvendo **automação e sistemas embarcados**.
-
----
-
-## ⚡ Tecnologias & Ferramentas
+# 👋 Olá, eu sou Rodrigo Martins Ribeiro
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ☕ Desenvolvedor Java em Formação
 
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0078D7?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+📚 Focado em Java, Spring Boot e Desenvolvimento Web
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-
-
-
-
+🚀 Construindo projetos para evolução contínua
 
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
+# 🧠 Sobre Mim
 
-- 🔌 **Automação Residencial com ESP32 + MQTT**  
-  Controle de relés via botão físico e MQTT, integração com Node-RED e broker local.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira na área de **Desenvolvimento de Software**.
 
-- 📊 **Monitoramento de Energia Elétrica**  
-  Leitura de corrente e tensão usando SCT-013 e ZMPT101B com ESP32.
+Atualmente concentro meus estudos em **Java**, **Programação Orientada a Objetos**, **Banco de Dados**, **Git/GitHub** e **Spring Boot**, com foco no desenvolvimento de aplicações web modernas.
 
-- 🌐 **API REST com Node.js / NestJS**  
-  Backend para gerenciamento de dispositivos IoT, autenticação e controle remoto.
+Possuo experiência profissional em tecnologia, atuando com desenvolvimento de soluções, integração de sistemas e resolução de problemas técnicos, competências que aplico diariamente na minha evolução como desenvolvedor.
 
-- ⏱️ **Sistema de Cálculo de Horas de Ponto**  
-  Aplicação em JavaScript para cálculo de atrasos, faltas, DSR e total de horas.
+🎯 Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Java Júnior**.
 
 ---
 
+# 🚀 Tecnologias
+
+## ☕ Back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+## 🌐 Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+## 🗄️ Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+## 🛠 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 📚 Atualmente Estudando
+
+* Java
+* Programação Orientada a Objetos
+* Git e GitHub
+* Banco de Dados SQL
+* Estruturas de Dados
+* Spring Boot
+
+---
+
+# 📌 Projetos
+
+## 💰 Sistema Bancário
+
+Aplicação Java para gerenciamento de contas, depósitos, saques e consultas de saldo.
+
+## 📦 Controle de Estoque
+
+Sistema para cadastro e gerenciamento de produtos.
+
+## 📇 Agenda de Contatos
+
+Aplicação para cadastro, pesquisa e gerenciamento de contatos.
+
+## ⏰ Sistema de Controle de Ponto
+
+Sistema para cálculo de horas trabalhadas, atrasos e banco de horas.
+
+## 🌐 API REST com Spring Boot
+
+API para gerenciamento de usuários e operações CRUD.
+
+---
+
+# 🗺️ Roadmap
+
+## Fundamentos Java
+
+* [x] Ambiente configurado
+* [x] Git e GitHub
+* [ ] Variáveis
+* [ ] Operadores
+* [ ] Estruturas Condicionais
+* [ ] Estruturas de Repetição
+* [ ] Arrays
+* [ ] Métodos
+
+## Programação Orientada a Objetos
+
+* [ ] Classes
+* [ ] Objetos
+* [ ] Encapsulamento
+* [ ] Herança
+* [ ] Polimorfismo
+* [ ] Interfaces
+
+## Back-end Java
+
+* [ ] Collections
+* [ ] Exceções
+* [ ] SQL
+* [ ] JDBC
+* [ ] Spring Boot
+* [ ] APIs REST
+* [ ] JPA/Hibernate
+* [ ] Testes
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+![Rodrigo GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodriDev96\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriDev96\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 Objetivos para 2026
+
+* Concluir os estudos de Java
+* Aprender Spring Boot
+* Criar projetos reais para portfólio
+* Fortalecer GitHub e LinkedIn
+* Conquistar a primeira oportunidade como Desenvolvedor Java
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn
+
+[www.linkedin.com/in/rodrigo-martins-ribeiro-7591a8166](http://www.linkedin.com/in/rodrigo-martins-ribeiro-7591a8166)
+
+📂 GitHub
+
+https://github.com/RodriDev96
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
+
+</div>
