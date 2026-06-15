@@ -3,9 +3,10 @@
 <h1 align="center">👋 Olá, eu sou o Rodrigo Martins Ribeiro</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web e IoT<br>
-  ⚙️ Automação • ESP32 • Sistemas Inteligentes<br>
-  🚀 Focado em projetos práticos e aprendizado contínuo
+  ☕ Desenvolvedor Java em Formação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+📚 Focado em Java, Spring Boot e Desenvolvimento Web
+🚀 Construindo projetos para evolução contínua
 </p>
 
 ---
