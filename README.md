@@ -124,7 +124,7 @@ Possuo experiência profissional em tecnologia, atuando com desenvolvimento de s
 
 💼 LinkedIn
 
-[www.linkedin.com/in/rodrigo-martins-ribeiro-7591a8166](http://www.linkedin.com/in/rodrigo-martins-ribeiro-7591a8166)
+[www.linkedin.com/in/rodrigo-martins-ribeiro-7591a8166](www.linkedin.com/in/rodrigo-martins-732543255)
 
 📂 GitHub
 
